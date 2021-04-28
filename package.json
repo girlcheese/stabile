@@ -50,7 +50,7 @@
         "clean-css": "4.1.x",
         "clean-css-cli": "4.1.x",
         "normalize.css": "7.0.x",
-        "node-sass": "4.5.x",
+        "node-sass": "4.13.x",
         "parallelshell": "3.0.x",
         "rimraf": "2.6.x",
         "sass-mq": "3.3.x",
