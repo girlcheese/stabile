@@ -1,3 +1,3 @@
 source 'https://rubygems.org' do
-    gem 'jekyll'
+    gem 'jekyll', '>= 3.9.0'
 end
